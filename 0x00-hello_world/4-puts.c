@@ -1,4 +1,4 @@
-# include <stdio.h>
+#include <stdio.h>
 /**
  * main - prints programming is like building a multilingual puzzle
  * don't use printf

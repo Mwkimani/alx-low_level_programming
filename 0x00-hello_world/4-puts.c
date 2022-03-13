@@ -1,6 +1,5 @@
 # include <stdio.h>
 /**
- * main-entry point
  * main - prints programming is like building a multilingual puzzle
  * don't use printf
  * use the function puts

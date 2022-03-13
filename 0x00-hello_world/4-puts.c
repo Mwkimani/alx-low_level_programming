@@ -1,7 +1,7 @@
 # include <stdio.h>
 /**
  * main-entry point
- * This program prints programming is like building a multilingual puzzle
+ * main - prints programming is like building a multilingual puzzle
  * don't use printf
  * use the function puts
  * return: 0 if exited properly else not zero
